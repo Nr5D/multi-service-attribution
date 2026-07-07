@@ -9,7 +9,7 @@
 
 ## The Problem
 
-Indonesian regulation ([Permenpan RB 14/2017](https://peraturan.bpk.go.id/)) requires every public service to be scored on **9 quality components** (procedures, cost, staff competence, facilities, etc.). This is manageable for a single service — but government can offer **hundreds of services** under one roof.
+Indonesian regulation ([Permenpan RB 14/2017](https://peraturan.bpk.go.id/Details/132600/permen-pan-rb-no-14-tahun-2017)) requires every public service to be scored on **9 quality components** (procedures, cost, staff competence, facilities, etc.). This is manageable for a single service — but government can offer **hundreds of services** under one roof.
 
 Asking each visitor to rate every service they used, on all 9 components, separately, means hundreds of repetitive answers per person — leading to severe respondent fatigue and poor data quality.
 
