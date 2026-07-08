@@ -86,7 +86,10 @@ source("visualize_results.R")
 If you use this pipeline or reference this talk, please cite:
 
 ```
-Nurussadad, A. A., & Rizki, A. (2026). One Rating, Multiple Services: Solving the 100-Service Dilemma — Automated Attribution for Multi-Service Public Satisfaction Surveys. Lightning Talk, useR! 2026, Virtual Presentation Room. Code: https://github.com/Nr5D/multi-service-attribution
+Nurussadad, A. A., & Rizki, A. (2026). One Rating, Multiple Services: Solving the
+100-Service Dilemma — Automated Attribution for Multi-Service Public Satisfaction
+Surveys. Lightning Talk, useR! 2026, Virtual Presentation Room.
+Code: https://github.com/Nr5D/multi-service-attribution
 ```
 
 
