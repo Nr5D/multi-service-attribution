@@ -73,13 +73,23 @@ source("visualize_results.R")
 ## Presentation
 
 - **Format:** Lightning Talk (5 minutes)
-- **Venue:** useR! 2026, Virtual Presentation Room
+- **Venue:** useR! 2026, Virtual Presentation Room (Aula VI (SGH Warsaw School of Economics))
 - **Slides & speaker notes:** see [`/slides`](./slides) in this repo
 
-## Author
+## Authors
 
-Abdul Aziz Nurussadad — Badan Informasi Geospasial of Republic of Indonesia
+- [Abdul Aziz Nurussadad](https://events.digital-research.academy/event/109/contributions/489/author/632) — Badan Informasi Geospasial
+- [Akbar Rizki](https://events.digital-research.academy/event/109/contributions/489/author/633) — IPB University
+
+## Citation
+
+If you use this pipeline or reference this talk, please cite:
+
+```
+Nurussadad, A. A., & Rizki, A. (2026). One Rating, Multiple Services: Solving the 100-Service Dilemma — Automated Attribution for Multi-Service Public Satisfaction Surveys. Lightning Talk, useR! 2026, Virtual Presentation Room. Code: https://github.com/Nr5D/multi-service-attribution
+```
+
 
 ## License
 
-MIT (or your preferred license)
+MIT
